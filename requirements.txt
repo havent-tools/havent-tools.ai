@@ -1,0 +1,9 @@
+requests
+pytest
+flake8
+mypy
+typing-extensions
+bandit
+coverage
+tmuxp
+fastapi
